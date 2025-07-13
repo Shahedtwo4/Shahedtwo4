@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">👩🏻‍💻  About Me</h3>
 
 ###
@@ -49,7 +51,6 @@
 <h4 align="center">𒆜Software Eengineering𒆜</h4>
 
 ###
-
 
 <div align="left">
 </div>
