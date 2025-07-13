@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Shahed from Syria<br><br>- 🔭 I’m a front-end developer<br>- 📚 I'm currently learning software engineering<br>- ⚡ In my free time I  go jogging<br>-  🧩 "For me, design isn't just visual- it's tructural. Through front-end development, I translate concepts into digital experiences that are both beautiful and user-centered."</p>
+<p align="left"> ⫷I'm Shahed from Syria⫸<br><br>- 🔭 I’m a front-end developer<br>- 📚 I'm currently learning software engineering<br>- ⚡ In my free time I  go jogging<br>-  🧩 "For me, design isn't just visual- it's tructural. Through front-end development, I translate concepts into digital experiences that are both beautiful and user-centered."</p>
 
 ###
 
