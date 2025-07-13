@@ -50,9 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shahedtwo4/Shahedtwo4/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
 </div>
